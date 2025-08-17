@@ -1,7 +1,7 @@
 Github Profilime Hoşgeldin..! 👋
 
-- 🔭 Sakarya Üniversitesi Bilgisayar Mühendisliği 3. Sınıf Öğrencisiyim.
-- 🌱 Şuan Web Teknolojileri üzerine kendimi geliştiriyorum. React, ASP.NET Core, PostgreSQL ve MSSQL gibi araçlar üzerine GitHub profilimde basit projeler bulabilirsiniz. Artı olarak Spring öğreniyorum.
+- 🔭 Sakarya Üniversitesi Bilgisayar Mühendisliği 4. Sınıf Öğrencisiyim.
+- 🌱 Web Programlama ve Yapay Zeka üzerine kendimi geliştiriyorum. React Native, ASP.NET Core, Python, Spring, C# gibi dillerde ve OpenCV, librosa gibi kütüphanelerde bilgim var. 
 - 📫 Bana Buradan Ulaşabilirsiniz : mbayir.sakarya@gmail.com
 
-Kendimi daha ileriye taşımak için çalışıyorum ve farklı fikirlere / tavsiyelere önem veriyorum. Projelerinde takım arkadaşı arayanlar benimle iletişime geçebilir.
+Kendimi daha ileriye taşımak için çalışıyorum ve farklı fikirlere / tavsiyelere önem veriyorum.
