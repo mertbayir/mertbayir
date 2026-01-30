@@ -1,8 +1,6 @@
 <h1 align="center">Selam 👋, Ben Mert</h1>
 <h3 align="center">Backend Developer</h3>
 
-- 🌱 I’m currently learning **Go**
-
 - 👨‍💻 All of my projects are available at [https://github.com/mertbayir?tab=repositories](https://github.com/mertbayir?tab=repositories)
 
 - 📫 How to reach me **mert.bayir1@outlook.com**
