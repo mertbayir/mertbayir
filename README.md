@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
-<h3 align="center">Mobile & Backend Developer</h3>
+<h3 align="center">Backend & Mobile Developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/mertbayir?tab=repositories](https://github.com/mertbayir?tab=repositories)
 
